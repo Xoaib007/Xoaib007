@@ -45,8 +45,8 @@
 <br/>  
 
 <div align="center">
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=xoaib007&theme=darcula&show_icons=true&hide_border=true&count_private=true"/>
-    <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=xoaib007&theme=darcula&hide_border=true"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=xoaib007&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+    <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=xoaib007&theme=react&hide_border=true"/>
 <div>
 
 

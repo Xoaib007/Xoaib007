@@ -1,5 +1,10 @@
 #
+
 <img src="https://github.com/Xoaib007/Xoaib007/blob/6c05730718acad79328a71e850af1efe71790d48/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.jpg">
+
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 
 <div align="left">Hi there👋
   I'm Shoaib- a web developer living in Milan, Italy, originally from Dhaka, Bangladesh. I love writing clean and maintainable code for web application specialized in JavaScript technologies and mobile applications, passionate about learning and exploring new technologies as well I'm enthusiastic about UI/UX.  </div> 
@@ -38,6 +43,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br/>  
+
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=xoaib007&theme=darcula&show_icons=true&hide_border=true&count_private=true"/>
+    <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=xoaib007&theme=darcula&hide_border=true"/>
+<div>
 
 
 ## Where to find me 

@@ -11,11 +11,9 @@
 
 ### <div align="left"> Web Developer</div>  
   
-
-- 🔭 I’m currently working at [ISD Software und Systeme GmbH](https://www.isdgroup.com/en/)  as working student
   
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, graphQL & NextJS
   
 - 🤔 Technologies I would like to learn next: PHP & Ruby
 

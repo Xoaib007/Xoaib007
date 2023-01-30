@@ -5,24 +5,25 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+ <div align="left">
+  <a href="https://app.daily.dev/xoaib007"><img align="right" src="https://api.daily.dev/devcards/705501976c18407fb20076da481bb7fa.png?r=mlz" width="250" alt="Shoaib Rehman's Dev Card"/></a>
+</div>
 
 <div align="left">Hi there👋
   I'm Shoaib- a web developer living in Milan, Italy, originally from Dhaka, Bangladesh. I love writing clean and maintainable code for web application specialized in JavaScript technologies and mobile applications, passionate about learning and exploring new technologies as well I'm enthusiastic about UI/UX.  </div> 
 
 ### <div align="left"> Web Developer</div>  
-  
-  
 
 - 🌱 I’m currently learning Python, graphQL & NextJS
-  
-- 🤔 Technologies I would like to learn next: PHP & Ruby
-
-- 👯 I’m looking to collaborate to [Twins Coder BD](https://github.com/twinscoderbd)  
-  
+- 🤔 Technologies I would like to learn next: C++ & C#
+- 👯 I’m looking - To collaborate on open source projects. 
 - 🥳 Fun fact: My goal is to get on a world tour.
 
+### <p>.</p>
 
-### <div><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='25'/>Languages and Tools </div>
+### <p>.</p>
+
+### <div margin-top='50'><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='25'/>Languages and Tools </div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

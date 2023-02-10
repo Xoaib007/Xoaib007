@@ -47,9 +47,13 @@
 <br/>  
 
 <div align="center">
-<!--     <img align=top src="https://github-readme-stats.vercel.app/api?username=xoaib007&theme=react&show_icons=true&hide_border=true&count_private=true"/> -->
-    <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=xoaib007&theme=react&hide_border=true"/>
-</div>
+ 
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=xoaib007&theme=dark&hide_border=true&fire=white)
+
+
+ <div align="center">
+ 
+ [![Codewars](https://github.r2v.ch/codewars?user=Xoaib007&stroke=%23BB432C&theme=dark&top_languages=true)](https://www.codewars.com/users/Xoaib007)
 
 </br>
 
@@ -103,3 +107,5 @@
             </a>
 </div>  
  -->
+</br> </br> </br> </br> 
+ <img src="https://komarev.com/ghpvc/?username=xoaib007&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter"> <br>

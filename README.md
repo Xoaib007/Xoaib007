@@ -53,7 +53,9 @@
 
  <div align="center">
  
- [![Codewars](https://github.r2v.ch/codewars?user=Xoaib007&stroke=%23BB432C&theme=dark&top_languages=true)](https://www.codewars.com/users/Xoaib007)
+<!--  [![Codewars](https://github.r2v.ch/codewars?user=Xoaib007&stroke=%23BB432C&theme=dark&top_languages=true)](https://www.codewars.com/users/Xoaib007)
+  
+ ![Codewars](https://www.codewars.com/users/Xoaib007/badges/large) -->
 
 </br>
 

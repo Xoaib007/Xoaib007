@@ -59,7 +59,10 @@
 
 </br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sh041B?theme=nord&font=Red%20Hat%20Mono&ext=heatmap)
+<a href="https://leetcode.com/Sh041B/">
+    <img src="https://leetcard.jacoblin.cool/Sh041B?theme=nord&font=Red%20Hat%20Mono&ext=heatmap" alt="LeetCode Stats">
+</a>
+
 
 ## My notes & cheatsheets
 

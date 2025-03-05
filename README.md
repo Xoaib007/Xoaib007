@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xoaib007&theme=dark&hide_border=true&short_numbers=true&border=EB5454)](https://git.io/streak-stats)
+
 #
 
 <img src="https://github.com/Xoaib007/Xoaib007/blob/6c05730718acad79328a71e850af1efe71790d48/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.jpg">

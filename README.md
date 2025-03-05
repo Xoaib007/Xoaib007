@@ -1,4 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xoaib007&theme=dark&hide_border=true&short_numbers=true&border=EB5454)](https://git.io/streak-stats)
 
 #
 
@@ -50,7 +49,7 @@
 
 <div align="center">
  
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=xoaib007&theme=dark&hide_border=true&fire=white)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Xoaib007&theme=dark&hide_border=true&fire=white)
 
 
  <div align="center">

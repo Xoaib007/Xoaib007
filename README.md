@@ -64,13 +64,12 @@
     <img src="https://leetcard.jacoblin.cool/Sh041B?theme=nord&font=Red%20Hat%20Mono" alt="LeetCode Stats">
 </a>
 
-<a href="https://github.com/Xoaib007/Leetcode-solutions">Solutions</a>
-
 
 
 ## My notes & cheatsheets
 
 <a href='https://github.com/Xoaib007/MySQL-Notes'> <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
+<a href='https://github.com/Xoaib007/Leetcode-solutions'> <img src='https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06'/>
 
  </br>
 

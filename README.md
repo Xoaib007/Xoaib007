@@ -61,7 +61,7 @@
 </br>
 
 <a href="https://leetcode.com/Sh041B/">
-    <img src="https://leetcard.jacoblin.cool/Sh041B?theme=nord&font=Red%20Hat%20Mono&ext=heatmap" alt="LeetCode Stats">
+    <img src="https://leetcard.jacoblin.cool/Sh041B?theme=nord&font=Red%20Hat%20Mono" alt="LeetCode Stats">
 </a>
 
 <a href="https://github.com/Xoaib007/Leetcode-solutions">Solutions</a>

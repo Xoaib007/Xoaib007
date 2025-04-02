@@ -18,9 +18,7 @@
 - 🌱 I’m currently learning Python, graphQL & NextJS
 - 🤔 Technologies I would like to learn next: C++ & C#
 - 👯 I’m looking - To collaborate on open source projects. 
-- 🥳 Fun fact: My goal is to get on a world tour.
-
-### <p>.</p>
+- 🥳 Fun fact: My goal is to get on a world tour. 
 
 ### <p>.</p>
 
